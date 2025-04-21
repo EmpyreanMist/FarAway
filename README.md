@@ -1,6 +1,6 @@
 # FarAway - Travel List App ✈️
 
-> A React project built as part of a React course.
+> A React project built as part of a React course I took.
 
 ## Description
 
